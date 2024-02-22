@@ -1,7 +1,9 @@
 body {background-color: #2d2c47;}
-.logo {display: block;
-width: 25%;
-}
+.logo {  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;}
+
 
 .tom, .Daisy, .LULU, .King {
     
